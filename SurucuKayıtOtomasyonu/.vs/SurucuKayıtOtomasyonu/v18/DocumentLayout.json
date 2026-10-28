@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\s\u00FCr\u00FCc\u00FC kay\u0131t otomasyonu\\surucukay\u0131totomasyonu\\surucukay\u0131totomasyonu\\aday\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|solutionrelative:surucukay\u0131totomasyonu\\aday\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\s\u00FCr\u00FCc\u00FC kay\u0131t otomasyonu\\surucukay\u0131totomasyonu\\surucukay\u0131totomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|solutionrelative:surucukay\u0131totomasyonu\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\s\u00FCr\u00FCc\u00FC kay\u0131t otomasyonu\\surucukay\u0131totomasyonu\\surucukay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|solutionrelative:surucukay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\s\u00FCr\u00FCc\u00FC kay\u0131t otomasyonu\\surucukay\u0131totomasyonu\\surucukay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F50ECC-A762-44D7-81D3-A53838D829E1}|SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu.csproj|solutionrelative:surucukay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aday\u0130slemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Aday\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "SurucuKay\u0131tOtomasyonu\\Aday\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Aday\u0130slemleri.cs",
+              "RelativeToolTip": "SurucuKay\u0131tOtomasyonu\\Aday\u0130slemleri.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:21:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "SurucuKay\u0131tOtomasyonu\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\AnaMenu.cs",
+              "RelativeToolTip": "SurucuKay\u0131tOtomasyonu\\AnaMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:21:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "RelativeToolTip": "SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:21:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "SurucuKay\u0131tOtomasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\S\u00FCr\u00FCc\u00FC Kay\u0131t Otomasyonu\\SurucuKay\u0131tOtomasyonu\\SurucuKay\u0131tOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SurucuKay\u0131tOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:21:40.759Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
